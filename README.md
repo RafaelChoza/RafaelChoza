@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I am Rafael Choza</h1>
 <h2 align="center">A passionate fullstack Java and Python</h2>
-- 👋 Hi, I’m @RafaelChoza
+- 👋 Hi, I’m @RafaelChoza and live in Merida yucatan Mexico.
+
 - 👀 I’m interested in coding in a diverse coding projects
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on fullstack projects
