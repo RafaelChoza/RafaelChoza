@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I am Rafael Choza</h1>
-<h2 align="center">A passinate fullstack Java and Python</h2>
+<h2 align="center">A passionate fullstack Java and Python</h2>
 - 👋 Hi, I’m @RafaelChoza
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
