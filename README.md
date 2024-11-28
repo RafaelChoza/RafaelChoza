@@ -25,7 +25,7 @@
 - Expense Planner -Javascript https://rafaelchoza.github.io/Budget-administrator-Javascript/
 - Guitar Store ---> https://66bd55c9196ce933c05b2800--spiffy-capybara-7c0d6b.netlify.app/
 - Sport Ecommerce ---> https://rafaelchoza.github.io/ecommerce-project-EBAC/
-- Bance Calculation --> https://spontaneous-capybara-9a320a.netlify.app/
+- Balance Calculation --> https://spontaneous-capybara-9a320a.netlify.app/
 
 
 
