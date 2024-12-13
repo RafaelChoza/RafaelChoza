@@ -15,17 +15,16 @@
 
 <h2>My Projects</h2>
 
-- Webpage consuming a movies API --->  https://rafaelchoza.github.io/temaze-API-project/
-   
-- Cryptocurrency consultant ---> https://deft-melomakarona-e59a7b.netlify.app/
-- Weather consultant ---> https://darling-pie-4eaa7e.netlify.app/
-- Veterinary Patient Monitoring ---> https://elaborate-sprinkles-3449ff.netlify.app/
-- Calory Tracker ---> https://coruscating-mandazi-a8e899.netlify.app/
-- Expense Planner - ReactJs ---> https://harmonious-mermaid-2caa99.netlify.app/
-- Expense Planner -Javascript https://rafaelchoza.github.io/Budget-administrator-Javascript/
-- Guitar Store ---> https://66bd55c9196ce933c05b2800--spiffy-capybara-7c0d6b.netlify.app/
-- Sport Ecommerce ---> https://rafaelchoza.github.io/ecommerce-project-EBAC/
-- Balance Calculation --> https://spontaneous-capybara-9a320a.netlify.app/
+- Webpage consuming a movies API: This webpage uses an API to get information about movies and series. It has options to filter movies and series by genre, country, and name. This project uses HTML, CSS, and JavaScript. --->  https://rafaelchoza.github.io/temaze-API-project/
+- Cryptocurrency consultant: This app uses an API to get interactive information about different cryptocurrencies. This project uses ReactJS, Tailwind, TypeScript, and Zustand ---> https://deft-melomakarona-e59a7b.netlify.app/
+- Weather consultant: This app uses an API to get dynamic weather information for different cities in Mexico, the USA, and Canada. This project uses ReactJS, TypeScript, and Tailwind ---> https://darling-pie-4eaa7e.netlify.app/
+- Veterinary Patient Monitoring: This app is used to manage patients at a veterinary clinic. This project uses the React-form library, ReactJS, TypeScript, and Tailwind ---> https://elaborate-sprinkles-3449ff.netlify.app/
+- Calorie Tracker: This app is used to record all foods and activities with their respective calories and display all activities on screen. It also calculates the balance of calories. This project uses ReactJS, TypeScript, and Tailwind ---> https://coruscating-mandazi-a8e899.netlify.app/
+- Expense Planner: This app is used to manage all expenses within a given budget. This project uses ReactJS, TypeScript, and Tailwind. ---> https://harmonious-mermaid-2caa99.netlify.app/
+- Expense Planner (JavaScript): This app is used to manage all expenses within a given budget. This project uses JavaScript, HTML, and CSS https://rafaelchoza.github.io/Budget-administrator-Javascript/
+- Guitar Store: This app is an online guitar store. This project uses ReactJS, TypeScript, and Tailwind. ---> https://66bd55c9196ce933c05b2800--spiffy-capybara-7c0d6b.netlify.app/
+- Sport Ecommerce: This app is a sports ecommerce platform. This project uses HTML, CSS, and JavaScript. ---> https://rafaelchoza.github.io/ecommerce-project-EBAC/
+- Balance Calculation: This app is used to calculate the balance of an account. You can record all deposits and withdrawals, and all movements are shown on screen. You can differentiate between deposits and withdrawals. --> https://spontaneous-capybara-9a320a.netlify.app/
 
 
 
