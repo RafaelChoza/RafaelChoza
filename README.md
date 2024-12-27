@@ -25,6 +25,7 @@
 - Guitar Store: This app is an online guitar store. This project uses ReactJS, TypeScript, and Tailwind. ---> https://66bd55c9196ce933c05b2800--spiffy-capybara-7c0d6b.netlify.app/
 - Sport Ecommerce: This app is a sports ecommerce platform. This project uses HTML, CSS, and JavaScript. ---> https://rafaelchoza.github.io/ecommerce-project-EBAC/
 - Balance Calculation: This app is used to calculate the balance of an account. You can record all deposits and withdrawals, and all movements are shown on screen. You can differentiate between deposits and withdrawals. --> https://spontaneous-capybara-9a320a.netlify.app/
+- Beaverages Recipes from API: This app use an API (TheCockTailDB) and use React, TypeScript, Tailwind, Zustand, Zod, , you can add your Favorites Beaverages recipes to Favorites Page and also delete them. ---> https://gorgeous-sprite-70a302.netlify.app/
 
 
 
