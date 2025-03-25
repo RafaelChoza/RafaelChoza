@@ -27,6 +27,7 @@
 - Balance Calculation: This app is used to calculate the balance of an account. You can record all deposits and withdrawals, and all movements are shown on screen. You can differentiate between deposits and withdrawals. --> https://spontaneous-capybara-9a320a.netlify.app/
 - Beaverages Recipes from API: This app use an API (TheCockTailDB) and use React, TypeScript, Tailwind, Zustand, Zod, , you can add your Favorites Beaverages recipes to Favorites Page and also delete them. ---> https://gorgeous-sprite-70a302.netlify.app/
 - Product administrator: Fullstack project. An A rest-API with backend with Node.js, using PostGreSQL data base, react and typescript on frontend. ---> https://rest-api-typescript-frontend-beige.vercel.app/
+- Expenses administrator: FullStack Project. A webpage created with Python and Django ---> https://rafaelchoza.pythonanywhere.com
 
 
 
