@@ -28,6 +28,7 @@
 - Beaverages Recipes from API: This app use an API (TheCockTailDB) and use React, TypeScript, Tailwind, Zustand, Zod, , you can add your Favorites Beaverages recipes to Favorites Page and also delete them. ---> https://gorgeous-sprite-70a302.netlify.app/
 - Product administrator: Fullstack project. An A rest-API with backend with Node.js, using PostGreSQL data base, react and typescript on frontend. ---> https://rest-api-typescript-frontend-beige.vercel.app/
 - Expenses administrator: FullStack Project. A webpage created with Python and Django ---> https://rafaelchoza.pythonanywhere.com
+- FullStack Integrated System for Machining Workshop Management: Developed a complete enterprise solution using ReactJS, TailwindCSS, and TypeScript on the frontend, and Java SpringBoot with MySQL on the backend. The system manages work orders, clients, inventory, and productivity reports, focusing on usability, operational efficiency, and scalability for manufacturing workshops ---> https://main2.d1kdtg0mqkoh4a.amplifyapp.com/#/
 
 
 
